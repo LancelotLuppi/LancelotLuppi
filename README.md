@@ -2,7 +2,6 @@
 - Tenho 18 anos.
 - Estudante Ciências da Computação na UCS.
 - Buscando minha primeira experiência profissional como Estagiário ou Jovem Aprendiz.
-- Familiarizado com Java e Python
 
 <div>
   <a href="https://twitter.com/lancelotlol1">
