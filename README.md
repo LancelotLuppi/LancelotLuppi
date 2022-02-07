@@ -1,8 +1,8 @@
 ### Olá, meu nome é Gabriel Luppi 👋🏼
-- Sou estudante de programação, atualmente cursando a Alura.
-- Estou a procura de uma vaga para o meu primeiro emprego, nos níveis de Jovem Aprendiz ou Dev Júnior.
-- Tenho 17 anos.
-- Gosto de jogar, ver animes, ler e estudar.
+- Tenho 18 anos.
+- Estudante Ciências da Computação na UCS.
+- Buscando minha primeira experiência profissional como Estagiário ou Jovem Aprendiz.
+- Familiarizado com Java e Python
 
 <div>
   <a href="https://twitter.com/lancelotlol1">
