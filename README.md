@@ -1,7 +1,7 @@
 ### Olá, meu nome é Gabriel Luppi 👋🏼
 - Tenho 18 anos.
 - Estudante Ciências da Computação na UCS.
-- Buscando minha primeira experiência profissional como Estagiário ou Jovem Aprendiz.
+- Buscando minha primeira experiência profissional como Estagiário ou Desenvolvedor Jr.
 
 <div>
   <a href="https://twitter.com/lancelotlol1">
