@@ -1,7 +1,7 @@
 ### Olá, meu nome é Gabriel Luppi 👋🏼
-- Tenho 18 anos.
-- Estudante Ciências da Computação na UCS.
-- Estagiário desenvolvedor back-end na DBC Company.
+- Tenho 19 anos.
+- Desenvolvedor jr. backend na DBC Company.
+- Estudante de Ciências da Computação na UCS.
 
 <div>
   <a href="https://twitter.com/lancelotlol1">
