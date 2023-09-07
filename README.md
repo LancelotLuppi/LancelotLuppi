@@ -11,10 +11,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Luppi-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Luppi-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Luppi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luppi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luppi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luppi-Elixir" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Luppi-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" alt="Luppi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Luppi-pic" height="200" style="border-radius:50px;" src="https://imgur.com/poCOFbS.png">
 </div>
