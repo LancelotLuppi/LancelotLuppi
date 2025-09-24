@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gabriel Luppi 👋🏼
-- Tenho 19 anos.
-- Desenvolvedor jr. backend na DBC Company.
+- Tenho 21 anos.
+- Desenvolvedor mid-level. backend na Getnet.
 - Estudante de Ciências da Computação na UCS.
 
 <div>
